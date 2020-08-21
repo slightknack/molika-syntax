@@ -13,7 +13,4 @@ a programming language I like to use quite a lot.
 Recommended UI Theme paring is Atom's *One Dark*.
 
 ## How do I try it out?
-You can try installing it through APM.
-I'm setting it up now, so if you're reading
-this and there isn't an APM package up yet,
-you have amazing timing.
+You can try installing it through APM: https://atom.io/packages/slightknack-syntax.
