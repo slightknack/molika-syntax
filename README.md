@@ -6,7 +6,7 @@ But it's mine, and I love it, so there.
 ## What does it look like?
 Something like this. Your mileage may vary:
 
-![Beautiful colorful source code.](https://raw.githubusercontent.com/slightknack/atom-syntax/master/example.png)
+![Beautiful colorful source code.](https://raw.githubusercontent.com/slightknack/molika-syntax/master/example.png)
 
 The language in the above example is Rust,
 a programming language I like to use quite a lot.
