@@ -1,4 +1,4 @@
-# Molokai Syntax Theme for Atom
+# Molika Syntax Theme for Atom
 Tired of garbage themes?
 Here's another one.
 But it's mine, and I love it, so there.
@@ -13,4 +13,4 @@ a programming language I like to use quite a lot.
 Recommended UI Theme paring is Atom's *One Dark*.
 
 ## How do I try it out?
-You can try installing it through APM: https://atom.io/packages/slightknack-syntax.
+You can try installing it through APM: https://atom.io/packages/molika-syntax.
