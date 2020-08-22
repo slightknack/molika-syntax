@@ -1,16 +1,15 @@
 {
-  "name": "molika-syntax",
-  "theme": "syntax",
-  "version": "1.2.0",
-  "description": "Tired of garbage themes? Here's another one. But it's mine, and I love it, so there.",
-  "keywords": [
-    "syntax",
-    "theme"
-    "molika"
-  ],
-  "repository": "https://github.com/slightknack/molika-syntax",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "molika-syntax",
+    "theme": "syntax",
+    "version": "1.2.2",
+    "description": "Tired of garbage themes? Here's another one. But it's mine, and I love it, so there.",
+    "keywords": [
+        "syntax",
+        "theme"
+    ],
+    "repository": "https://github.com/slightknack/molika-syntax",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
