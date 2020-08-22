@@ -1,4 +1,4 @@
-# Molokai Syntax Theme for Atom
+# Molika Syntax Theme for Atom
 Tired of garbage themes?
 Here's another one.
 But it's mine, and I love it, so there.
