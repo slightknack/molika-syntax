@@ -26,3 +26,6 @@ You can try installing it through APM: https://atom.io/packages/molika-syntax.
 | magenta |` #9a37ff` | `#bd9eff` |
 | cyan:   | `#50b6d8` | `#5ed6fe` |
 | white:  | `#c7c7c7` | `#feffff` |
+
+## Related
+[Hamza](https://github.com/hhhapz) ported molika to vim! [check it out](https://github.com/hhhapz/vim-molika)!
